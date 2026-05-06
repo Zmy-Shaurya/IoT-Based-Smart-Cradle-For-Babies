@@ -8,7 +8,7 @@ It is a smart baby cradle system that uses sensors, embedded hardware, and autom
 
 ## Project Image
 
-![IoT-Based Smart Cradle for Babies](WhatsApp%20Image%202026-05-04%20at%2012.58.25%20PM.jpeg)
+![](image.jpg)
 
 ## Key Features
 
